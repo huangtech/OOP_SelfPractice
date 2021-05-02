@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618741890 source:c:\users\test\desktop\test\main.cpp
+	<iostream>
+	"Worker.h"
+
+1618741874 source:c:\users\test\desktop\test\worker.cpp
+	"Worker.h"
+
+1618742337 c:\users\test\desktop\test\worker.h
+	<iostream>
+	"Boss.h"
+
+1618735983 c:\users\test\desktop\test\boss.h
+	<iostream>
+	"Worker.h"
+
+1618735999 source:c:\users\test\desktop\test\boss.cpp
+	"Worker.h"
+
